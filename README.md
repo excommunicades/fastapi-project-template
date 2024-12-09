@@ -16,3 +16,6 @@
 # from project_name.pkg.db.models import ExampleModel
 
 # target_metadata = Base.metadata
+
+
+# .env like = DATABASE_URL = "postgresql://postgres:password@localhost:host/template"
